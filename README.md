@@ -1,6 +1,6 @@
 # Geometric Feature Extraction from LiDAR Point Cloud
 
-Course project
+Photogrammetry course project
 
 ## Notes
 
