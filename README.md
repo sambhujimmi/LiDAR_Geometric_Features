@@ -1,4 +1,8 @@
-# Notes
+# Geometric Feature Extraction from LiDAR Point Cloud
+
+Course project
+
+## Notes
 
 - Python 3.11 for Open3D
 
@@ -6,7 +10,7 @@
 /opt/homebrew/bin/python3.11 -m venv venv
 ```
 
-# Steps
+## Steps
 
 - Load point cloud
 
